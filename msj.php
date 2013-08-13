@@ -1,4 +1,4 @@
 <?php
-print "Hola Oso"
+print "Hola Osa"
 
 ?>
